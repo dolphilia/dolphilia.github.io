@@ -1,0 +1,100 @@
+.ItemMediumRedraw {display: none;}
+.ItemFootCount {display: none;}
+.ItemsInfoWrap {display:none;}
+.ItemHead.reply {display:none;}
+.ItemHead.resnap {display:none;}
+.ItemText {display:none;}
+#WallHeader {display:none;}
+.Wall .WallBody {max-width: none;}
+.Wall .WallItem {width: 200px; display:inline-block;}
+.ItemMedia > .ItemMediumWrap:nth-child(n + 2) {display:none;}
+.ItemFootActionComment {display:none !important;}
+.ItemFootActionResnap {display:none !important;}
+.ItemFootAction > .right {display:none !important;}
+.ItemMedia > .ItemMediumWrap > .ItemMedium {
+width: 200px;
+height: 269px;
+position: relative;
+overflow: hidden;
+opacity: 0.5;
+}
+.ItemMedia > .ItemMediumWrap > .ItemMedium img {
+position: absolute;
+top: 50%;
+left: 50%;
+-webkit-transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+width: auto;
+height: 100%;
+}
+#PermissionRequest {
+  display:none;
+}
+#Header {
+  display:none;
+}
+#Footer {display:none;}
+.Item > div:last-child {border-radius:0px;}
+.ItemFoot {
+ background:none !important;; 
+}
+.ItemFootAction {display:inline-block;justify-content: none;height: 30px;}
+.ItemFootActionHeart {margin:0 auto !important;}
+.Wall .WallItem {margin:1px 1px 0 0;}
+.ItemFootReplies {display: none !important;}
+#AppContent {background:#2c2b30 !important;}
+.WallStandby {margin:0 !important;}
+.ItemMedia > .ItemMediumWrap > .ItemMedium {opacity: 0.5;}
+.Item .ItemMedia {border:none;background:transparent;}
+.WallStandby,.WallLoadNext {
+  position:absolute !important;
+  top:0;
+  left:0;
+  width:20px;
+  height:20px !important;
+}
+.ItemFoot {
+  position:relative;
+  margin-top:-50px;
+  z-index: 1000;
+}
+.Highres.visible{
+  z-index: 1001;
+}
+.Item > div:first-child {display:none;}
+.ItemHeadStatus {display: none !important;}
+.ItemHeadIcon {display:none !important;;}
+.ItemHeadTime {display:none;}
+.Spinner.pulse .SpinnerBody {
+    width: 100%;
+    height: 100%;
+    background-color: none;
+    border-radius: none;
+    -webkit-animation: none;
+    -moz-animation: none;
+    -o-animation: none;
+    -ms-animation: none;
+    animation: none;
+}
+.Item .ItemMedia .ItemMedium {
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    -ms-transition: none;
+    transition: none;
+}
+.Item .ItemFoot .ItemFootAction .action .Glyph {
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    -ms-transition: none;
+    transition: none;
+}
+.Item .ItemFoot .ItemFootAction .action {
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    -ms-transition: none;
+    transition: none;
+}
