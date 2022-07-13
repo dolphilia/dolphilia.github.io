@@ -7,7 +7,7 @@
 #WallHeader {display:none;}
 .Wall .WallBody {max-width: none;}
 .Wall .WallItem {width: 200px; display:inline-block;}
-.ItemMedia > .ItemMediumWrap:nth-child(n + 2) {display:none;}
+.ItemMedia > .ItemMediumWrap:nth-child(n + 2) {display:none !important;}
 .ItemFootActionComment {display:none !important;}
 .ItemFootActionResnap {display:none !important;}
 .ItemFootAction > .right {display:none !important;}
@@ -16,7 +16,7 @@ width: 200px;
 height: 269px;
 position: relative;
 overflow: hidden;
-opacity: 0.5;
+opacity: 1;
 }
 .ItemMedia > .ItemMediumWrap > .ItemMedium img {
 position: absolute;
@@ -32,7 +32,7 @@ height: 100%;
   display:none;
 }
 #Header {
-  display:none;
+  display:none !important;
 }
 #Footer {display:none;}
 .Item > div:last-child {border-radius:0px;}
@@ -41,11 +41,11 @@ height: 100%;
 }
 .ItemFootAction {display:inline-block;justify-content: none;height: 30px;}
 .ItemFootActionHeart {margin:0 auto !important;}
-.Wall .WallItem {margin:1px 1px 0 0;}
+.Wall .WallItem {margin:1px 1px 0 0 !important;}
 .ItemFootReplies {display: none !important;}
 #AppContent {background:#2c2b30 !important;}
 .WallStandby {margin:0 !important;}
-.ItemMedia > .ItemMediumWrap > .ItemMedium {opacity: 0.5;}
+.ItemMedia > .ItemMediumWrap > .ItemMedium {opacity: 1;}
 .Item .ItemMedia {border:none;background:transparent;}
 .WallStandby,.WallLoadNext {
   position:absolute !important;
@@ -97,4 +97,16 @@ height: 100%;
     -o-transition: none;
     -ms-transition: none;
     transition: none;
+}
+.ItemHead {
+  display:none !important;
+}
+.WallItem {
+  width:none !important;
+}
+.WallBody {
+  max-width: none !important;
+}
+.WallScrollTop {
+  display: none;
 }
