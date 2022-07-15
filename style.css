@@ -6,7 +6,7 @@
 .ItemText {display:none;}
 #WallHeader {display:none;}
 .Wall .WallBody {max-width: none;}
-.Wall .WallItem {width: 200px; display:inline-block;}
+.Wall .WallItem {width: 200px !important; display:inline-block;}
 .ItemMedia > .ItemMediumWrap:nth-child(n + 2) {display:none !important;}
 .ItemFootActionComment {display:none !important;}
 .ItemFootActionResnap {display:none !important;}
