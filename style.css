@@ -102,7 +102,7 @@ height: 100%;
   display:none !important;
 }
 .WallItem {
-  width:none !important;
+  width:200px !important;
 }
 .WallBody {
   max-width: none !important;
