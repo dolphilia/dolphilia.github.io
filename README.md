@@ -1,5 +1,7 @@
 # dolphilia.github.io
 
+## H2 1
+
 | ヘッダ 1 | ヘッダ 2 |
 | ------------- | ------------- |
 | 内容セル  | 内容セル  |
@@ -13,3 +15,5 @@ flowchart TD
     C --> E[Enjoy your weekend!];
     D --> E[Enjoy your weekend!];
 ```
+
+## h2 2
