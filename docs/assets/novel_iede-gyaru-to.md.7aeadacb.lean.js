@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as t,a}from"./app.e18c80f2.js";const f=JSON.parse('{"title":"家出ギャルと電車の旅","description":"","frontmatter":{},"headers":[],"relativePath":"novel/iede-gyaru-to.md","lastUpdated":null}'),o={name:"novel/iede-gyaru-to.md"},r=a("",144),_=[r];function n(s,d,c,i,l,h){return t(),e("div",null,_)}const m=p(o,[["render",n]]);export{f as __pageData,m as default};

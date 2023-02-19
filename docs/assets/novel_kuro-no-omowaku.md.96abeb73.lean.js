@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as a,a as o}from"./app.e18c80f2.js";const m=JSON.parse('{"title":"黒の思惑","description":"","frontmatter":{},"headers":[],"relativePath":"novel/kuro-no-omowaku.md","lastUpdated":null}'),t={name:"novel/kuro-no-omowaku.md"},r=o("",187),_=[r];function n(s,c,d,i,l,u){return a(),e("div",null,_)}const f=p(t,[["render",n]]);export{m as __pageData,f as default};

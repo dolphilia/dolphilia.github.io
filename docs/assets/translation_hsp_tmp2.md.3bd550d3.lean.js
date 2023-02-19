@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.1650bd79.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"translation/hsp/tmp2.md","lastUpdated":1676126774000}'),s={name:"translation/hsp/tmp2.md"};function r(n,o,p,c,d,i){return a(),e("div")}const l=t(s,[["render",r]]);export{_ as __pageData,l as default};
