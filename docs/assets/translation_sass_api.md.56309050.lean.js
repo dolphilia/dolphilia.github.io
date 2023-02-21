@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e}from"./app.b419af8d.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"translation/sass/api.md","lastUpdated":null}'),s={name:"translation/sass/api.md"};function n(r,o,c,p,i,d){return e(),t("div")}const m=a(s,[["render",n]]);export{_ as __pageData,m as default};

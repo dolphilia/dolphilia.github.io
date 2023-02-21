@@ -1,1 +1,0 @@
-import{_ as p,c as a,o as e,a as t}from"./app.e18c80f2.js";const m=JSON.parse('{"title":"うたかたのゆめ","description":"","frontmatter":{},"headers":[],"relativePath":"novel/utakata-no-yume.md","lastUpdated":null}'),o={name:"novel/utakata-no-yume.md"},_=t("",166),n=[_];function r(s,c,d,i,l,u){return e(),a("div",null,n)}const f=p(o,[["render",r]]);export{m as __pageData,f as default};

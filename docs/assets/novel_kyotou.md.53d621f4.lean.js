@@ -1,1 +1,0 @@
-import{_ as p,c as e,o as t,a}from"./app.e18c80f2.js";const f=JSON.parse('{"title":"虚塔","description":"","frontmatter":{},"headers":[],"relativePath":"novel/kyotou.md","lastUpdated":null}'),o={name:"novel/kyotou.md"},_=a("",85),n=[_];function r(s,c,d,i,l,h){return t(),e("div",null,n)}const m=p(o,[["render",r]]);export{f as __pageData,m as default};

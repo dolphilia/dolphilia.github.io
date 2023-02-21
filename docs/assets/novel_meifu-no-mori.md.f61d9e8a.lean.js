@@ -1,1 +1,0 @@
-import{_ as p,c as e,o as t,a}from"./app.e18c80f2.js";const h=JSON.parse('{"title":"冥府の森と英雄の花","description":"","frontmatter":{},"headers":[],"relativePath":"novel/meifu-no-mori.md","lastUpdated":null}'),o={name:"novel/meifu-no-mori.md"},r=a("",213),_=[r];function n(s,i,c,d,l,m){return t(),e("div",null,_)}const u=p(o,[["render",n]]);export{h as __pageData,u as default};

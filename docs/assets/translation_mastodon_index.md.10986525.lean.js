@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.b419af8d.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"translation/mastodon/index.md","lastUpdated":1676784496000}'),n={name:"translation/mastodon/index.md"};function o(s,r,d,c,i,p){return a(),e("div")}const l=t(n,[["render",o]]);export{m as __pageData,l as default};

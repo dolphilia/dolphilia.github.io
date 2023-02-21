@@ -1,1 +1,0 @@
-import{_ as p,c as a,o as e,a as t}from"./app.e18c80f2.js";const u=JSON.parse('{"title":"タイムマシンを作った男","description":"","frontmatter":{},"headers":[],"relativePath":"novel/taimu-mashin-wo.md","lastUpdated":null}'),o={name:"novel/taimu-mashin-wo.md"},n=t("",15),s=[n];function _(r,i,c,d,h,l){return e(),a("div",null,s)}const f=p(o,[["render",_]]);export{u as __pageData,f as default};

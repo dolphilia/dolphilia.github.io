@@ -1,1 +1,0 @@
-import{_ as p,c as e,o as a,a as t}from"./app.e18c80f2.js";const u=JSON.parse('{"title":"もやし革命","description":"","frontmatter":{},"headers":[],"relativePath":"novel/moyashi-kakumei.md","lastUpdated":null}'),o={name:"novel/moyashi-kakumei.md"},s=t("",20),_=[s];function n(r,i,c,d,h,l){return a(),e("div",null,_)}const f=p(o,[["render",n]]);export{u as __pageData,f as default};
