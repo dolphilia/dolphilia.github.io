@@ -1,0 +1,1 @@
+import{_ as p,c as t,o as e,Q as a}from"./chunks/framework.44f152d8.js";const m=JSON.parse('{"title":"虚塔","description":"","frontmatter":{},"headers":[],"relativePath":"novel/kyotou.md","lastUpdated":1676784496000}'),o={name:"novel/kyotou.md"},_=a("",85),r=[_];function s(n,c,d,i,l,h){return e(),t("div",null,r)}const f=p(o,[["render",s]]);export{m as __pageData,f as default};
