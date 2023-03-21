@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.44f152d8.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"translation/vivliostyle/index.md","lastUpdated":1676974355000}'),n={name:"translation/vivliostyle/index.md"};function o(s,r,i,c,d,l){return a(),e("div")}const m=t(n,[["render",o]]);export{_ as __pageData,m as default};
